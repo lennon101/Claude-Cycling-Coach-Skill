@@ -1,4 +1,4 @@
-# Claude-Cycling-Coach-Skill# 🚴 Claude Cycling Coach Skill
+# 🚴 Claude Cycling Coach Skill
 
 A Claude skill that generates personalized, periodized training plans for road cycling, mountain biking, gravel, XCO, enduro, and cyclocross. Plans are power-based, phase-structured, and rendered as interactive HTML — output quality rivals TrainingPeaks coaching plans.
 
