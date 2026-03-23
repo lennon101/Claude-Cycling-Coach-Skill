@@ -8,7 +8,9 @@ A Claude skill that generates personalized, periodized training plans for road c
 
 ### 1. Add the skill file
 
-Save `cycling-coach.skill` then navigate in the side-bar of either claude desktop or claude web-app --> Customize --> Skills --> tap the plus symbol --> Upload new skill
+Save `cycling-coach.skill` then navigate in the side-bar of either claude desktop or claude web-app then: 
+
+`--> Customize --> Skills --> tap the plus symbol --> Upload new skill`
 
 Then upload the skill file you just downloaded. That's it! 
 
