@@ -14,6 +14,9 @@ Save `cycling-coach.skill` then navigate in the side-bar of either claude deskto
 
 Then upload the skill file you just downloaded. That's it! 
 
+<img width="1079" height="776" alt="image" src="https://github.com/user-attachments/assets/5a631e5a-152d-4002-94a1-6e349d445ece" />
+
+
 ## Usage
 
 Start a conversation with Claude and ask for a training plan. The skill triggers automatically on keywords like **FTP**, **power zones**, **MTB**, **gran fondo**, **enduro**, **XCO**, **gravel**, or any request for a bike training plan. An example prompt could be:
